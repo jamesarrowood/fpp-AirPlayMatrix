@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AirPlay Matrix Start",
+    "script": "start.sh",
+    "args": []
+  },
+  {
+    "name": "AirPlay Matrix Stop",
+    "script": "stop.sh",
+    "args": []
+  },
+  {
+    "name": "AirPlay Matrix Restart",
+    "script": "restart.sh",
+    "args": []
+  }
+]
